@@ -1,4 +1,4 @@
-# WSCoE, who we are and what we do
+# Accessibility Community
 
 Presentation prepared for Accessibility Community at CDS
 
